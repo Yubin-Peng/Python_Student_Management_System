@@ -26,7 +26,7 @@ class students():
     def studentManage(self):
         while True:
             print("============Student Information System============")
-            print("1-Add       2-Update     3-Remove      4-Search      5-Exit")
+            print("1-Add       2-Update     3-Remove      4-List      5-Exit")
             print("==================================================")
             choice = int(input("Please enter your option: "))
             
